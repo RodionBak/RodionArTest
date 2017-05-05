@@ -1,0 +1,17 @@
+D:\TestPhoton\PhotoClient\Assets\Plugins\TestPhotonLib.Common.dll
+D:\TestPhoton\PhotoClient\Assets\Plugins\TestPhotonLib.Common.pdb
+D:\TestPhoton\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.csprojResolveAssemblyReference.cache
+D:\TestPhoton\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.dll
+D:\TestPhoton\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.pdb
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest\RodionArServer\PhotoClient\Assets\Plugins\TestPhotonLib.Common.dll
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest\RodionArServer\PhotoClient\Assets\Plugins\TestPhotonLib.Common.pdb
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest\RodionArServer\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.csprojResolveAssemblyReference.cache
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest\RodionArServer\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.dll
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest\RodionArServer\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.pdb
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest\RodionArClient\Assets\Plugins\TestPhotonLib.Common.dll
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest\RodionArClient\Assets\Plugins\TestPhotonLib.Common.pdb
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest2\RodionArClient\Assets\Plugins\TestPhotonLib.Common.dll
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest2\RodionArClient\Assets\Plugins\TestPhotonLib.Common.pdb
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest2\RodionArServer\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.dll
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest2\RodionArServer\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.pdb
+D:\RBS_PM\LiveProjects\ReLoaD\material\AmbideksteR\RodionArTest2\RodionArServer\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.csprojResolveAssemblyReference.cache
